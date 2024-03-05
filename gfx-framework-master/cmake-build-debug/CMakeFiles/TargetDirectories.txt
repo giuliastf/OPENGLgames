@@ -1,0 +1,3 @@
+/Users/giulia/Desktop/FINALS/gfx-framework-master/cmake-build-debug/CMakeFiles/GFXFramework.dir
+/Users/giulia/Desktop/FINALS/gfx-framework-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giulia/Desktop/FINALS/gfx-framework-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
